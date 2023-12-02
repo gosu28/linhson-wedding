@@ -1,5 +1,6 @@
 /* pink color style */
 
+.btn-1:hover,
 .people-section .people-item-inner .social-links a i,
 .event-section .event-item-inner span,
 .story-section .story-item i,
@@ -12,6 +13,7 @@
     color: #fb839e;
 }
 
+.btn-1,
 .people-section .people-item-inner .social-links a i,
 .event-section .event-item-inner:before,
 .couple-section .social-links a i,
@@ -19,6 +21,8 @@
     border-color: #fb839e;
 }
 
+.btn-1,
+.rsvp-section,
 .people-section .people-item-inner .social-links a:hover i,
 .people-section .filter-btn.active,
 .event-section,
